@@ -1,0 +1,24 @@
+{
+  "name": "other-reverse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "./node_modules/prettier/bin-prettier.js . --write"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavosanchezgalarza/reverse-sentence-npm.git"
+  },
+  "keywords": [],
+  "author": "Gustavo Sanchez <gustavosanchezgalarza@gmail.com> (gusanche.dev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gustavosanchezgalarza/reverse-sentence-npm/issues"
+  },
+  "homepage": "https://github.com/gustavosanchezgalarza/reverse-sentence-npm#readme",
+  "devDependencies": {
+    "prettier": "2.3.0"
+  }
+}
